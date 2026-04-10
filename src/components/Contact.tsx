@@ -133,7 +133,7 @@ export default function Contact() {
                   : "Send message"}
               </button>
               {status === "error" && (
-                <p className="text-red-400 text-[13px]">
+                <p role="alert" className="text-red-400 text-[13px]">
                   Something went wrong. Please try again or email us directly.
                 </p>
               )}
