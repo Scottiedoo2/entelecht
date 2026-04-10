@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 140" fill="none">
-  <!-- Minimal line E + wordmark -->
-  <path d="M25,25 L25,115 L75,115" stroke="#1A1A1A" stroke-width="4" fill="none" stroke-linecap="round"/>
-  <line x1="25" y1="70" x2="60" y2="70" stroke="#B8975C" stroke-width="4" stroke-linecap="round"/>
-  <line x1="25" y1="25" x2="75" y2="25" stroke="#1A1A1A" stroke-width="4" stroke-linecap="round"/>
-  <text x="100" y="80" font-family="Arial, sans-serif" font-size="28" font-weight="300" letter-spacing="6" fill="#1A1A1A">ntelecht</text>
-  <text x="100" y="108" font-family="Arial, sans-serif" font-size="10" letter-spacing="3" fill="#5B8A72">.ai</text>
-</svg>

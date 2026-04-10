@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none">
-  <!-- Diamond monogram -->
-  <polygon points="80,15 145,80 80,145 15,80" fill="none" stroke="#1A1A1A" stroke-width="3"/>
-  <polygon points="80,35 125,80 80,125 35,80" fill="#B8975C" opacity="0.15"/>
-  <text x="80" y="95" text-anchor="middle" font-family="Georgia, serif" font-size="50" font-weight="400" fill="#1A1A1A">e</text>
-</svg>

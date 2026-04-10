@@ -1,10 +1,13 @@
 "use client";
 
+import Image from "next/image";
+
 export default function Navbar() {
   return (
     <nav aria-label="Main navigation" className="nav-enter fixed top-0 left-0 right-0 z-50 bg-cream/80 backdrop-blur-md border-b border-black/5">
       <div className="max-w-[1120px] mx-auto px-4 sm:px-6 py-3 sm:py-4 flex items-center justify-between">
-        <a href="#" className="text-[16px] sm:text-[18px] font-sans font-medium tracking-tight">
+        <a href="#" className="flex items-center gap-2 text-[16px] sm:text-[18px] font-sans font-medium tracking-tight">
+          <Image src="/logo.png" alt="Entelecht.ai logo" width={28} height={28} className="rounded-full" />
           entelecht<span className="text-teal">.ai</span>
         </a>
         <div className="flex items-center gap-3 sm:gap-6">

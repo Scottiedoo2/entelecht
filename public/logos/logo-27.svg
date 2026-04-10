@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 140" fill="none">
-  <!-- Continuous stroke wordmark -->
-  <text x="150" y="85" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="400" fill="none" stroke="#1A1A1A" stroke-width="1.2">entelecht</text>
-  <line x1="30" y1="100" x2="270" y2="100" stroke="#B8975C" stroke-width="2"/>
-  <circle cx="270" cy="100" r="4" fill="#5B8A72"/>
-</svg>

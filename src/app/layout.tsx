@@ -37,6 +37,14 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Spiral Protocol Foundation" }],
   robots: { index: true, follow: true },
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/favicon-32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicon-16.png", sizes: "16x16", type: "image/png" },
+    ],
+    apple: "/apple-touch-icon.png",
+  },
   openGraph: {
     title: "Entelecht.ai — Governance Infrastructure for Autonomous AI",
     description:
@@ -44,11 +52,22 @@ export const metadata: Metadata = {
     url: "https://entelecht.ai",
     siteName: "Entelecht.ai",
     type: "website",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1024,
+        height: 1024,
+        alt: "Entelecht.ai — Governance Infrastructure for Autonomous AI",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
+    site: "@EntelechtAI",
+    creator: "@EntelechtAI",
     title: "Entelecht.ai — Governance Infrastructure for Autonomous AI",
     description: "Making human intention architectable.",
+    images: ["/og-image.png"],
   },
   metadataBase: new URL("https://entelecht.ai"),
 };
@@ -61,6 +80,8 @@ const jsonLd = {
   description:
     "Governance infrastructure for autonomous AI. The deterministic binding layer between what humans declare and what AI systems do.",
   email: "architect@entelecht.ai",
+  logo: "https://entelecht.ai/og-image.png",
+  sameAs: ["https://x.com/EntelechtAI"],
 };
 
 const fontVars = [inter.variable, playfair.variable, jetbrainsMono.variable].join(" ");

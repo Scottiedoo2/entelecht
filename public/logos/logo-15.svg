@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none">
-  <!-- Fibonacci spiral square -->
-  <rect x="20" y="20" width="120" height="120" rx="4" stroke="#1A1A1A" stroke-width="2" fill="none"/>
-  <path d="M80,140 C80,107 52,80 20,80" stroke="#B8975C" stroke-width="2.5" fill="none"/>
-  <path d="M80,80 C80,97 67,107 53,107" stroke="#5B8A72" stroke-width="2.5" fill="none"/>
-  <path d="M53,80 C53,88 60,93 67,93" stroke="#B8975C" stroke-width="2.5" fill="none"/>
-  <path d="M67,80 C67,84 64,87 60,87" stroke="#5B8A72" stroke-width="2.5" fill="none"/>
-  <circle cx="62" cy="82" r="2" fill="#1A1A1A"/>
-</svg>
