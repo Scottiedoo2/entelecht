@@ -37,7 +37,7 @@ const phases = [
 
 export default function PhasedDeployment() {
   return (
-    <section className="py-16 sm:py-24 lg:py-32">
+    <section id="technology" className="py-16 sm:py-24 lg:py-32">
       <div className="max-w-[1120px] mx-auto px-4 sm:px-6">
         <div className="border-t border-dark/10 pt-12 sm:pt-16">
           <ScrollReveal>
