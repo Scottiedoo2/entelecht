@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none">
+  <!-- Circular emblem -->
+  <circle cx="80" cy="80" r="65" stroke="#1A1A1A" stroke-width="2.5" fill="none"/>
+  <circle cx="80" cy="80" r="58" stroke="#B8975C" stroke-width="0.75" fill="none"/>
+  <path d="M55,80 C55,62 65,50 80,50 C95,50 105,62 105,78 C105,92 95,100 85,100 C77,100 72,94 72,87 C72,82 76,78 81,78" stroke="#5B8A72" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <text x="80" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.5" letter-spacing="5" fill="#1A1A1A">ENTELECHT.AI</text>
+  <!-- Top arc text simulation -->
+  <text x="80" y="11" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" letter-spacing="4" fill="#6B7280">GOVERNANCE</text>
+</svg>

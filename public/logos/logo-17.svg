@@ -1,18 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="251" height="250" viewBox="0 0 251 250">
-<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
-  <path d="m250.4 0.44h-249.8v249.1h249.8v-249.1z" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
-  <path d="m32.86 41.18v77.27l10.8-9.28v-58.85h76.63l-5.15 10.15h-62.27v40.69l10.12-9.27v-21.87h57.3l16.27-28.84h-103.7z" fill="#151B1E"/>
-  <path d="m179.8 98.42-33.11-58.51-59.79 107.2h-23.93v-23.96h28.6l15.3-28.43h-36.48l-37.55 33.01v47.37h29.16l4.93-9.48h-23.39v-33.23l9.4-9.03v34.15h28.37l-11.1 17.59h34.21l15.63-29.32h53.54l16.08 29.32h33.75l-38.82-68.62-15.26 29.47h-54.6l-16.56 30.09h-10.06l20.44-38.14h47.82l-6.14-9.46h-15.96l12.05-21.44 17.62 31.99 5.58-11.28-23.05-42-22.83 42.73h-9.19l32.02-58.79 27.16 50.36 6.16-11.6zm-0.24 38.34 4.89-9.89 21.55 38.66h-10.31l-16.13-28.77z" fill="#151B1E"/>
-  <path d="m64.56 114.1 9.76-9.23 0.07-0.07h15.81l-4.46 8.82-21.18 0.07v0.41z" fill="#151B1E"/>
-  <path d="m27.78 190.7v18.12h14.46v-2.93h-10.92v-5h9.22v-2.49h-9.22v-4.68h10.55v-3.02h-14.09z" fill="#151B1E" stroke="#212A2B" stroke-miterlimit="10" stroke-width=".5"/>
-  <path d="m46.41 191v17.56h2.82v-11.78l10.13 12.01h2.12v-17.55h-2.82v11.89l-9.87-12.13h-2.38z" fill="#151B1E" stroke="#212A2B" stroke-miterlimit="10" stroke-width=".5"/>
-  <path d="m65.31 191.1v2.8h5.6v14.65h3.17v-14.65h5.98v-2.8h-14.75z" fill="#151B1E" stroke="#212A2B" stroke-miterlimit="10" stroke-width=".5"/>
-  <path d="m83.61 190.7v17.83h12.92v-2.64h-9.63v-5h8.3v-2.37h-8.3v-4.93h9.34v-2.89h-12.63z" fill="#151B1E" stroke="#212A2B" stroke-miterlimit="10" stroke-width=".5"/>
-  <path d="m101.6 190.7v17.69h12.13v-2.78l-8.98 0.08v-14.99h-3.15z" fill="#151B1E" stroke="#212A2B" stroke-miterlimit="10" stroke-width=".5"/>
-  <path d="m116.7 190.7v17.83h12.93v-2.64h-9.63v-5h8.23v-2.37h-8.23v-4.93h9.23v-2.89h-12.53z" fill="#151B1E" stroke="#212A2B" stroke-miterlimit="10" stroke-width=".5"/>
-  <path d="m146.9 195.7 2.55-2.04c-1.87-2.51-3.87-3.4-6.81-3.4-6.82 0-9.24 4.34-9.24 8.76 0 4.67 2.73 9.6 9.44 9.6 3.38 0 5.27-1.07 6.42-2.81l-2.06-2.13c-1.21 1.46-2.35 2.06-4.44 2.06-4.46 0-6.05-3.03-6.05-6.47 0-3.35 2.03-6.31 5.93-6.31 2.21 0 3.26 0.95 4.26 2.74z" fill="#151B1E" stroke="#212A2B" stroke-miterlimit="10" stroke-width=".5"/>
-  <path d="m153.2 190.7v17.83h2.96v-7.73h10.09v7.73h2.75v-17.55l-2.73 0.07v7.12h-10.07v-7.47h-3z" fill="#151B1E" stroke="#212A2B" stroke-miterlimit="10" stroke-width=".5"/>
-  <path d="m172.2 191.2v2.61h5.72v14.72h3.13v-14.72h5.78v-2.61h-14.63z" fill="#151B1E" stroke="#212A2B" stroke-miterlimit="10" stroke-width=".5"/>
-  <path d="m203.4 191-7.94 17.56h2.98l1.44-3.64h9.79l1.43 3.64h3.17l-7.24-17.56h-3.63zm1.55 2.9 3.69 8.66h-7.41l3.72-8.66z" fill="#151B1E" stroke="#212A2B" stroke-miterlimit="10" stroke-width=".5"/>
-  <path d="m218.5 191v17.56h3.15v-17.56h-3.15z" fill="#151B1E" stroke="#212A2B" stroke-miterlimit="10" stroke-width=".5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none">
+  <!-- Layered protocol stack -->
+  <rect x="30" y="95" width="100" height="22" rx="4" fill="#1A1A1A"/>
+  <rect x="38" y="68" width="84" height="22" rx="4" fill="#5B8A72"/>
+  <rect x="46" y="41" width="68" height="22" rx="4" fill="#B8975C"/>
+  <polygon points="80,18 108,41 52,41" fill="#1A1A1A"/>
+  <text x="80" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" letter-spacing="2" fill="#F5F0EB">PROTOCOL</text>
+  <text x="80" y="84" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" letter-spacing="2" fill="#F5F0EB">GOVERN</text>
+  <text x="80" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" letter-spacing="2" fill="#F5F0EB">INTENT</text>
 </svg>

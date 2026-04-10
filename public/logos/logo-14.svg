@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none">
+  <!-- Double spiral mark -->
+  <path d="M80,80 C80,55 95,40 110,40 C128,40 135,55 135,68 C135,82 122,92 110,92 C100,92 94,84 94,76 C94,70 100,66 105,66" stroke="#5B8A72" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M80,80 C80,105 65,120 50,120 C32,120 25,105 25,92 C25,78 38,68 50,68 C60,68 66,76 66,84 C66,90 60,94 55,94" stroke="#B8975C" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+</svg>

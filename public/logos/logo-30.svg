@@ -1,62 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" fill="none" viewBox="0 0 250 250">
-<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
-  <path d="m3.29 67.19v86.83h19.87v-9.75l-10.67-0.2v-29.24h8.97l-0.14-9.75h-8.83v-27.99h10.52v-9.9h-19.72z" fill="url(#paint0_linear_1555_83689)"/>
-  <path d="m26.79 67.19v86.77h9.71v-52.17l0.45-0.04 9.47 52.21h9.01v-86.77h-8.79v50l-0.52 0.07-8.41-50.07h-10.92z" fill="url(#paint1_linear_1555_83689)"/>
-  <path d="m59.27 67.19v9.5h6.61v77.27h10.5v-77.27h8.11v-9.5h-25.22z" fill="url(#paint2_linear_1555_83689)"/>
-  <path d="m87.7 67.19v86.83h21.02v-9.9h-10.95v-29.52h9.12v-9.52h-9.12v-28.24h11.07v-9.65h-21.14z" fill="url(#paint3_linear_1555_83689)"/>
-  <path d="m112.5 67.19v86.77h20.8v-10.12h-10.62v-76.65h-10.18z" fill="url(#paint4_linear_1555_83689)"/>
-  <path d="m136.3 67.19v86.63h21.8v-9.7h-11.59v-29.52h9.71v-9.33h-9.71v-28.43h10.95v-9.65h-21.16z" fill="url(#paint5_linear_1555_83689)"/>
-  <path d="m177.6 99.56h9.31v-17.32c0-9.36-4.93-15.76-12.8-15.76-9.31 0-12.91 6.33-12.91 16.15v58.17c0 9.16 5.4 14.24 12.62 14.07 8.95-0.22 13.38-6.11 13.38-14.07v-18.78h-9.6v19.27c0 2.95-1.03 4.5-3.27 4.5-1.81 0-2.92-1.3-2.92-3.93v-61.37c0-2.41 0.87-4.67 2.92-4.67 2.24 0 3.27 1.81 3.27 3.9v19.84z" fill="url(#paint6_linear_1555_83689)"/>
-  <path d="m191.2 67.27v86.7h10.62v-39.4h6.14v39.4h10.32v-86.7h-10.02v37.46h-5.91v-37.46h-11.15z" fill="url(#paint7_linear_1555_83689)"/>
-  <path d="m222.4 67.27v9.5h7.07v77.2h10.33v-77.36h7.52v-9.34h-24.92z" fill="url(#paint8_linear_1555_83689)"/>
-  <path d="m35.15 168.8v14.29h11.13v-2.32h-8.52v-3.82h7.2v-2.06h-7.2v-3.94h8.02v-2.15h-10.63z" fill="#085D58"/>
-  <path d="m50.68 168.8v14.31h2.43v-9.65l7.68 9.65h2.29v-14.31h-2.43v9.95l-7.91-9.95h-2.06z" fill="#085D58"/>
-  <path d="m66.81 168.8v2.06h4.79v12.25h2.54v-12.25h4.69v-2.06h-12.02z" fill="#085D58"/>
-  <path d="m83.42 168.8v14.29h10.42v-2.32h-7.99v-3.82h6.9v-2.06h-6.9v-3.94h7.72v-2.15h-10.15z" fill="#085D58"/>
-  <path d="m98.54 168.8v14.31h2.49v-4.76h4.03l2.92 4.76h2.83l-3.32-5.26c2.01-0.69 2.99-2.27 2.99-4.3 0-2.96-1.82-4.75-5.63-4.75h-6.31zm6.17 2.06c2.32 0 3.32 1.04 3.32 2.81 0 1.6-1.26 2.85-3.62 2.85h-3.38v-5.66h3.68z" fill="#085D58"/>
-  <path d="m114.7 168.8v13.9h2.49v-4.37h3.12c4.08 0 5.44-2.12 5.44-4.78 0-2.89-1.53-4.75-5.58-4.75h-5.47zm5.41 2.03c2.51 0 3.26 1.27 3.26 2.91 0 1.58-0.96 2.76-3.45 2.76h-2.78v-5.67h2.97z" fill="#085D58"/>
-  <path d="m129.3 168.8v14.31h2.49v-4.76h4.32l2.92 4.76h2.83l-3.32-5.26c2.01-0.69 2.99-2.27 2.99-4.3 0-2.96-1.82-4.75-5.63-4.75h-6.6zm6.46 2.06c2.32 0 3.15 1.04 3.15 2.81 0 1.6-1.09 2.85-3.45 2.85h-3.67v-5.66h3.97z" fill="#085D58"/>
-  <path d="m146 168.8v14.31h2.49v-14.31h-2.49z" fill="#085D58"/>
-  <path d="m159.1 174.7c-2.34-0.62-3.06-1.08-3.06-2.3 0-1.12 1.05-1.88 2.94-1.88 1.65 0 2.84 0.52 3.87 1.31l1.09-2.01c-1.25-0.99-2.74-1.48-4.89-1.48-3.3 0-5.35 1.74-5.35 4.2 0 2.25 1.48 3.44 4.52 4.36 2.69 0.83 3.45 1.4 3.45 2.57 0 1.21-1.25 1.83-3.02 1.83-1.72 0-3.4-0.72-4.54-1.93l-1.26 2.15c1.53 1.33 3.58 2.04 5.94 2.04 3.24 0 5.36-1.68 5.36-4.35 0-2.19-1.43-3.49-5.05-4.51z" fill="#085D58"/>
-  <path d="m168.8 168.8v14.29h10.42v-2.32h-7.99v-3.82h7.19v-2.06h-7.19v-3.94h7.72v-2.15h-10.15z" fill="#085D58"/>
-  <path d="m196 168.8-6.08 14.31h2.69l1.71-4.12h6.6l1.78 4.12h2.74l-6.2-14.31h-3.24zm1.55 2.39 2.59 5.97h-5.04l2.45-5.97z" fill="#085D58"/>
-  <path d="m209.4 168.8v14.31h2.49v-14.31h-2.49z" fill="#085D58"/>
-  <defs>
-    <linearGradient id="paint0_linear_1555_83689" x1="12.47" x2="11.93" y1="65.84" y2="154.2" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BA9643" offset="0"/>
-      <stop stop-color="#0D635C" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint1_linear_1555_83689" x1="40.28" x2="39.78" y1="65.17" y2="154.2" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BA9643" offset="0"/>
-      <stop stop-color="#0D635C" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint2_linear_1555_83689" x1="71.48" x2="71.22" y1="65.84" y2="154.5" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BA9643" offset="0"/>
-      <stop stop-color="#0D635C" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint3_linear_1555_83689" x1="97.98" x2="97.76" y1="66.89" y2="154.3" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BA9643" offset="0"/>
-      <stop stop-color="#0D635C" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint4_linear_1555_83689" x1="122.7" x2="122" y1="66.11" y2="154.5" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BA9643" offset="0"/>
-      <stop stop-color="#0D635C" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint5_linear_1555_83689" x1="147.1" x2="146.8" y1="65.84" y2="154.2" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BA9643" offset="0"/>
-      <stop stop-color="#0D635C" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint6_linear_1555_83689" x1="174.2" x2="173.6" y1="65.65" y2="155.1" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BA9643" offset="0"/>
-      <stop stop-color="#0D635C" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint7_linear_1555_83689" x1="204.5" x2="203.9" y1="65.94" y2="154.3" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BA9643" offset="0"/>
-      <stop stop-color="#0D635C" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint8_linear_1555_83689" x1="234.6" x2="234.1" y1="65.93" y2="154.5" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BA9643" offset="0"/>
-      <stop stop-color="#0D635C" offset="1"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 140" fill="none">
+  <!-- Boxed modern wordmark -->
+  <rect x="15" y="20" width="270" height="100" rx="8" stroke="#1A1A1A" stroke-width="2.5" fill="none"/>
+  <text x="150" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="600" letter-spacing="8" fill="#1A1A1A">entelecht</text>
+  <rect x="15" y="20" width="6" height="100" rx="3" fill="#5B8A72"/>
+  <rect x="279" y="20" width="6" height="100" rx="3" fill="#B8975C"/>
 </svg>

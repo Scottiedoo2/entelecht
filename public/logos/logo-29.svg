@@ -1,46 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="179" height="35" fill="none" viewBox="0 0 179 35">
-<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
-  <path d="m16.74 2.38v5.61h-9.46v6.42h7.14v4.97h-7.14v7.59h9.61v5.28h-14.85v-29.87h14.7z" fill="url(#paint0_linear_2480_13448)"/>
-  <path d="m21.03 2.42h5.81l7.34 17.35v-17.35h5v29.79h-5.28l-7.91-18.51v18.51h-5.6v-29.79h0.64z" fill="url(#paint1_linear_2480_13448)"/>
-  <path d="m42.02 2.38h18.36v5.49h-6.55v24.38h-6.15v-24.38h-5.66v-5.49z" fill="url(#paint2_linear_2480_13448)"/>
-  <path d="m77.79 2.38v5.61h-9.46v6.42h7.28v4.97h-7.14v7.59h9.6v5.28h-14.98v-29.87h14.7z" fill="url(#paint0_linear_2480_13448)"/>
-  <path d="m87.07 2.38v24.43h8.92v5.4h-14.52v-29.83h5.6z" fill="url(#paint4_linear_2480_13448)"/>
-  <path d="m113.6 2.38v5.36h-9.46v6.67h7.35v4.97h-7.14v7.44h9.88v5.39h-15.59v-29.83h14.96z" fill="url(#paint5_linear_2480_13448)"/>
-  <path d="m126.1 2.19c6.52 0 8.81 3.87 8.81 10.41v0.16h-5.52v-0.94c0-3.14-0.71-4.44-3.44-4.44h-0.2c-2.56 0-3.44 1.47-3.44 5.48v8.92c0 3.93 1.08 5.58 3.63 5.58h0.2c2.5 0 3.32-1.49 3.32-4.8v-1.55h5.51v1.1c0 6.58-2.75 10.34-8.95 10.34h-0.24c-6.44 0-9.03-4.03-9.03-10.36v-9.33c0-6.7 2.75-10.57 9.11-10.57h0.24z" fill="url(#paint6_linear_2480_13448)"/>
-  <path d="m143.7 2.38v11.95h7.22v-11.95h5.64v29.83h-5.64v-13.11h-7.14v13.11h-5.86v-29.83h5.78z" fill="url(#paint7_linear_2480_13448)"/>
-  <path d="m159.4 2.38h17.92v5.34h-5.99v24.49h-5.6v-24.49h-6.33v-5.34z" fill="url(#paint8_linear_2480_13448)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 140" fill="none">
+  <!-- Gradient underline wordmark -->
   <defs>
-    <linearGradient id="paint0_linear_2480_13448" x1="-.1368" x2="177.6" y1="17.24" y2="17.24" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C59F53" offset="0"/>
-      <stop stop-color="#39796D" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint1_linear_2480_13448" x1="-.1368" x2="177.6" y1="17.28" y2="17.28" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C59F53" offset="0"/>
-      <stop stop-color="#39796D" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint2_linear_2480_13448" x1="-.1368" x2="177.6" y1="17.28" y2="17.28" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C59F53" offset="0"/>
-      <stop stop-color="#39796D" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint4_linear_2480_13448" x1="-.1368" x2="177.6" y1="17.27" y2="17.27" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C59F53" offset="0"/>
-      <stop stop-color="#39796D" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint5_linear_2480_13448" x1="-.1368" x2="177.6" y1="17.28" y2="17.28" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C59F53" offset="0"/>
-      <stop stop-color="#39796D" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint6_linear_2480_13448" x1="-.1368" x2="177.6" y1="17.3" y2="17.3" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C59F53" offset="0"/>
-      <stop stop-color="#39796D" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint7_linear_2480_13448" x1="-.1368" x2="177.6" y1="17.26" y2="17.26" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C59F53" offset="0"/>
-      <stop stop-color="#39796D" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint8_linear_2480_13448" x1="-.1368" x2="177.6" y1="17.28" y2="17.28" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C59F53" offset="0"/>
-      <stop stop-color="#39796D" offset="1"/>
+    <linearGradient id="grad29" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5B8A72"/>
+      <stop offset="100%" stop-color="#B8975C"/>
     </linearGradient>
   </defs>
+  <text x="150" y="75" text-anchor="middle" font-family="Georgia, serif" font-size="40" font-weight="400" letter-spacing="6" fill="#1A1A1A">ENTELECHT</text>
+  <rect x="35" y="90" width="230" height="3" rx="1.5" fill="url(#grad29)"/>
+  <text x="150" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" letter-spacing="8" fill="#6B7280">INFRASTRUCTURE</text>
 </svg>

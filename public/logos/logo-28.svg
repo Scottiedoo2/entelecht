@@ -1,18 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="198" height="54" fill="none" viewBox="0 0 198 54">
-<!-- SVG created with Arrow, by QuiverAI (https://quiver.ai) -->
-  <path d="m0.87 0.65v52.57h16.3v-6.1h-10.08v-17.62h8.11v-5.9h-8.11v-16.79h10.08v-6.16h-16.3z" fill="url(#paint0_linear_55_147)"/>
-  <path d="m20.64 0.65v52.43h6.94v-34.37l0.21 0.06 8.95 34.31h7.01v-52.43h-6.39v33.74l-0.21 0.06-8.31-33.8h-8.2z" fill="url(#paint0_linear_55_147)"/>
-  <path d="m46.33 0.65v6.22h6.33v46.21h6.8v-46.21h7.08v-6.22h-20.21z" fill="url(#paint0_linear_55_147)"/>
-  <path d="m68.83 0.65v52.57h17.27v-6.28h-10.59v-17.44h8.9v-5.97h-8.9v-16.72h10.8v-6.16h-17.48z" fill="url(#paint0_linear_55_147)"/>
-  <path d="m89.41 0.65v52.43h16.75v-6.21h-10.14v-46.22h-6.61z" fill="url(#paint0_linear_55_147)"/>
-  <path d="m108.3 0.65v52.43h17.82v-6.14h-11.3v-17.51h8.97v-5.9h-8.97v-16.79h11.17v-6.09h-17.69z" fill="url(#paint0_linear_55_147)"/>
-  <path d="m139.3 0c-7.08 0-10.43 4.61-10.43 11.44v31.31c0 6.51 3.56 10.98 10.36 10.98 7.08 0 10.08-4.54 10.08-9.94v-8.9h-6.39v8.27c0 3.02-1.18 4.57-3.62 4.57-2.66 0-3.63-1.62-3.63-4.7v-32c0-3.21 1.04-4.76 3.56-4.76 2.38 0 3.69 1.35 3.69 4.49v8.13h6.32v-8.41c0-5.67-3.27-10.48-9.94-10.48z" fill="url(#paint0_linear_55_147)"/>
-  <path d="m153.1 0.65v52.43h7.15v-23.65h7.43v23.65h6.46v-52.43h-6.46v23.08h-7.43v-23.08h-7.15z" fill="url(#paint0_linear_55_147)"/>
-  <path d="m176.5 0.65v6.22h7.29v46.21h6.8v-46.21h6.73v-6.22h-20.82z" fill="url(#paint0_linear_55_147)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 140" fill="none">
+  <!-- Split color wordmark -->
   <defs>
-    <linearGradient id="paint0_linear_55_147" x1="98.7" x2="98.7" y2="53.73" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C19B46" offset="0"/>
-      <stop stop-color="#31746A" offset="1"/>
-    </linearGradient>
+    <clipPath id="left28"><rect x="0" y="0" width="150" height="140"/></clipPath>
+    <clipPath id="right28"><rect x="150" y="0" width="150" height="140"/></clipPath>
   </defs>
+  <text x="150" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="800" letter-spacing="2" fill="#1A1A1A" clip-path="url(#left28)">ENTELECHT</text>
+  <text x="150" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="800" letter-spacing="2" fill="#5B8A72" clip-path="url(#right28)">ENTELECHT</text>
+  <rect x="148" y="50" width="4" height="40" fill="#B8975C"/>
 </svg>

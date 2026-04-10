@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none">
+  <!-- Shield crest -->
+  <path d="M80,15 L140,40 L140,90 C140,120 80,148 80,148 C80,148 20,120 20,90 L20,40 Z" stroke="#1A1A1A" stroke-width="3" fill="none"/>
+  <path d="M80,30 L125,48 L125,88 C125,110 80,132 80,132 C80,132 35,110 35,88 L35,48 Z" fill="#1A1A1A" opacity="0.05"/>
+  <path d="M60,75 C60,58 68,48 80,48 C92,48 100,58 100,72 C100,86 90,92 82,92 C76,92 72,87 72,82 C72,77 76,74 80,74" stroke="#B8975C" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <text x="80" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" letter-spacing="3" fill="#5B8A72">ENTELECHT</text>
+</svg>
